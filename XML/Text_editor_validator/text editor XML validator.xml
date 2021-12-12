@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Institute>
+	<university name="Institu Mines Telecom" Type="Public" Description="Grand Establissment EPSCP">
+		<established>1996</established>
+		<chancellor>Édith Piaf</chancellor>
+		<president>Louiguy and Édith Piaf</president>
+		<noofadministrativestaff>4450</noofadministrativestaff>
+		<noofstudents>13400</noofstudents>
+		<postgraduates>1560</postgraduates>
+		<country name="France">
+			<locations>
+				<location>Albi</location>
+				<location>Ales</location>
+				<location>Brest</location>
+				<location>Douai</location>
+				<location>Evry</location>
+				<location>Lill</location>
+				<location>Nancy</location>
+				<location>Nantes</location>
+				<location>Paris</location>
+				<location>Saint-Etienne</location>
+				<location>Sophia-Antipolis</location>
+			</locations>
+			<longitude>48.7128°N</longitude>
+			<latitude>2.2003°E</latitude>
+		</country>
+		<website name="https://www.imt.fr/en/"></website>
+	</university>
+</Institute>

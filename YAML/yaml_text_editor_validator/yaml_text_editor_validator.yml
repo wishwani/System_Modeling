@@ -1,0 +1,110 @@
+openapi: 3.0.0
+info:
+  title: Smart Home API
+  description: list of room [CommonMark](http://commonmark.org/help/) or HTML.
+  version: 0.1.9
+servers:
+  - url: http://api.example.com/smarthome
+    description: list of room e.g. Main (production) server
+
+path:
+  /room:
+    get:
+      summary: Returns a list of room
+      description: obtain imformation about room from smart home database
+      responses:
+        "200": # status code
+          description: successful pull of room info a JSON array of room
+          content:
+            application/json:
+              schema:
+                type: arry
+                example: L567,L201
+                items:
+                  type: string
+paths:
+  /rooms/{roomsId}:
+    get:
+      summary: Returns a room by ID.
+      parameters:
+        - name: roomId
+          in: path
+          required: true
+          description: get a specific room
+          schema:
+            type: string
+            example: L567
+            minimum: 1
+      responses:
+        "200":
+          description: OK
+  path:
+/devices:
+  get:
+    description: obtain imformation about connected device from smart home database
+    parameters:
+      name: deviceId
+      in: path
+      descriptiondes: the number of list of connected device returned
+      schema:
+        type: string
+        minimum: 1
+        maximum: 2
+    responses:
+      "200": # status code
+        description: successful pull of list of connected device a JSON array
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Rooms"
+              components:
+                schemas:
+                Rooms:
+                  type: array
+                  properties:
+                    Room:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                          format: int32
+                        temperature:
+                          type: integer
+                          format: int32
+                        windowStatus:
+                          type: boolean
+                        co2:
+                          type: integer
+                          format: int32
+                        required: -id
+                          -temparature
+                          -windowStatus
+  paths:
+/devices/{devicesId}:
+  get:
+    summary: Returns a device by ID.
+    parameters:
+      - name: deviceId
+        in: path
+        required: true
+        description: current status of the device
+        schema:
+          type: string
+    responses:
+      "200":
+        description: ON
+put:
+  /device:
+    tags:
+      parameters:
+        - in: path
+          name: deviceId
+          type: string
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: successful operation
+          schema:
+            type: string

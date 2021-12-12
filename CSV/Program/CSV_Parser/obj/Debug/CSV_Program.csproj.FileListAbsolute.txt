@@ -1,0 +1,11 @@
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\bin\Debug\CSV_Parser.exe.config
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\bin\Debug\CSV_Parser.exe
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\bin\Debug\CSV_Parser.pdb
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Program.csproj.AssemblyReference.cache
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Program.csproj.SuggestedBindingRedirects.cache
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Program.Form1.resources
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Parser.Properties.Resources.resources
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Program.csproj.GenerateResource.cache
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Program.csproj.CoreCompileInputs.cache
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Parser.exe
+G:\Year1_Sem1\my\system_modeling\project\CSV\Program\CSV_Parser\obj\Debug\CSV_Parser.pdb

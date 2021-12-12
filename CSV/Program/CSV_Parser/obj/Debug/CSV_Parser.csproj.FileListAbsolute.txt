@@ -1,0 +1,11 @@
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\bin\Debug\CSV_Parser.exe.config
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\bin\Debug\CSV_Parser.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\bin\Debug\CSV_Parser.pdb
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\obj\Debug\CSV_Parser.Form1.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\obj\Debug\CSV_Parser.Properties.Resources.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\obj\Debug\CSV_Parser.csproj.GenerateResource.Cache
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\obj\Debug\CSV_Parser.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\obj\Debug\CSV_Parser.pdb
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\CSV_Parser\CSV_Parser\obj\Debug\CSV_Parser.csprojResolveAssemblyReference.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\CSV\CSV_Parser_Program\CSV_Parser\obj\Debug\CSV_Parser.exe
+G:\Year1_Sem1\my\SM\SystemModelingProject\CSV\CSV_Parser_Program\CSV_Parser\obj\Debug\CSV_Parser.pdb

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ControlAction",
+  "agent": {
+    "@type": "Person",
+    "name": "Randika"
+  },
+  "voicerecognition": {
+    "@type": "Voice",
+    "name": "Tv"
+  },
+  "resultone": {
+    "@type": "On",
+    "name": "Turn On Tv"
+  },
+  "resulttwo": {
+    "@type": "OFF",
+    "name": "Turn Off Tv"
+  },
+  "instrument": {
+    "@type": "SmartProduct",
+    "name": "Tv"
+  }
+}

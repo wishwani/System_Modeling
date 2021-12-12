@@ -1,0 +1,90 @@
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.exe.config
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.pdb
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Cvent.SchemaToPoco.Core.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\DotLiquid.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Namotion.Reflection.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.Schema.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.CSharp.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NLog.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\DotLiquid.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Namotion.Reflection.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.Schema.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.CSharp.xml
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\it\DotLiquid.resources.dll
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csprojResolveAssemblyReference.cache
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Person.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Form2.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Form3.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Properties.Resources.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.GenerateResource.Cache
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.pdb
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.exe.config
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.exe
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.pdb
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Cvent.SchemaToPoco.Core.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\DotLiquid.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Namotion.Reflection.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.Schema.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.CSharp.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NLog.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\DotLiquid.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Namotion.Reflection.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.Schema.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.CSharp.xml
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\it\DotLiquid.resources.dll
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.AssemblyReference.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.SuggestedBindingRedirects.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Person.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Form2.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Form3.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Properties.Resources.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.GenerateResource.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.CoreCompileInputs.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.CopyComplete
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.exe
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json Schema\Programs\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.pdb
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.exe.config
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.exe
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\JsonSchemaClassGenerator.pdb
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Cvent.SchemaToPoco.Core.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\DotLiquid.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Namotion.Reflection.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.Schema.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.CSharp.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NLog.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\DotLiquid.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Namotion.Reflection.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\Newtonsoft.Json.Schema.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\NJsonSchema.CodeGeneration.CSharp.xml
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\bin\Release\it\DotLiquid.resources.dll
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.AssemblyReference.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.SuggestedBindingRedirects.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Person.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Form2.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Form3.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.Properties.Resources.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.GenerateResource.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.CoreCompileInputs.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.csproj.CopyComplete
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.exe
+G:\Year1_Sem1\my\system_modeling\project\JSON documents, OOP Classes with C#(Final_2_questions)\JsonSchemaToOOPClass\JsonSchemaClassGenerator\JsonSchemaClassGenerator\obj\Release\JsonSchemaClassGenerator.pdb

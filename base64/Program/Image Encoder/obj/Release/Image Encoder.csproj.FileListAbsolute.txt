@@ -1,0 +1,21 @@
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\bin\Release\Image Encoder.exe.config
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\bin\Release\Image Encoder.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\bin\Release\Image Encoder.pdb
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\obj\Release\Image_Encoder.Form1.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\obj\Release\Image_Encoder.Properties.Resources.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\obj\Release\Image Encoder.csproj.GenerateResource.Cache
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\obj\Release\Image Encoder.exe.licenses
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\obj\Release\Image Encoder.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\Image Encoder\Image Encoder\obj\Release\Image Encoder.pdb
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.csproj.AssemblyReference.cache
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.csproj.SuggestedBindingRedirects.cache
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image_Encoder.Form1.resources
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image_Encoder.Properties.Resources.resources
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.csproj.GenerateResource.cache
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.exe.licenses
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.exe
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.pdb
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\bin\Release\Image Encoder.exe.config
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\bin\Release\Image Encoder.exe
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\bin\Release\Image Encoder.pdb
+G:\Year1_Sem1\my\SM\UJM_SysModel-master\Base64\Program\Image Encoder\obj\Release\Image Encoder.csproj.CoreCompileInputs.cache

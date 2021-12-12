@@ -1,0 +1,34 @@
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\bin\Debug\JsonToClass.exe.config
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\bin\Debug\JsonToClass.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\bin\Debug\JsonToClass.pdb
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.csprojResolveAssemblyReference.cache
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.Form1.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.Properties.Resources.resources
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.csproj.GenerateResource.Cache
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.exe
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.pdb
+K:\Masters UJM\Semester 1\Systemmodeling\Git WorkPlace\Softwares\JsonToClass\JsonToClass\obj\Debug\JsonToClass.Form2.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\bin\Debug\JsonToClass.exe.config
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\bin\Debug\JsonToClass.exe
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\bin\Debug\JsonToClass.pdb
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.AssemblyReference.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.SuggestedBindingRedirects.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.Form1.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.Form2.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.Properties.Resources.resources
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.GenerateResource.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.CoreCompileInputs.cache
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.exe
+G:\Year1_Sem1\my\SM\SystemModelingProject\Json\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.pdb
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\bin\Debug\JsonToClass.exe.config
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\bin\Debug\JsonToClass.exe
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\bin\Debug\JsonToClass.pdb
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.AssemblyReference.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.SuggestedBindingRedirects.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.Form1.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.Form2.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.Properties.Resources.resources
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.GenerateResource.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.csproj.CoreCompileInputs.cache
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.exe
+G:\Year1_Sem1\my\system_modeling\project\JSON documents with JAVA\OOP Class to Json_Source\JsonToClass\obj\Debug\JsonToClass.pdb

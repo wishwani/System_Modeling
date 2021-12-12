@@ -1,0 +1,109 @@
+[
+    {
+        "Day": "lundi 27 Sept.",
+        "Reserve_soutenance_master": {
+            "time": "09:00 - 10:00",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_reunion_preparation_CIRPE_2021": {
+            "time": "10:30-12:00",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_soutenance_stage_kevin_AROCA": {
+            "time": "16:00-17:30",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        }
+    },
+    {
+        "Day": "Mardi 28 sept.",
+        "Reserve_reunion_suivi_de_these": {
+            "time": "11:30-13:00",
+            "place": {
+                "name": "room 300 provisional VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_PhD_meeting": {
+            "time": "14:30-16:00",
+            "place": {
+                "name": "room 300 provisional VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_reunion_these_camilo": {
+            "time": "14:00-16:30",
+            "place": {
+                "name": "room 322",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_presentation_Territoire DPI": {
+            "time": "09:00-10:30",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_soutenance_TFE_Ghazlane": {
+            "time": "11:00-12:00",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_reunion_sobrit": {
+            "time": "14:00-16:00",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_reunion_Pro_Tech(SIRAM,IT'M)": {
+            "time": "16:00-17:00",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        }
+    },
+    {
+        "Day": "Mercredi 29  sept.",
+        "Reserve_reunion_SOS_medite_rranee": {
+            "time": "15:50-18:50",
+            "place": {
+                "name": "room 300 provisional VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_reunion_de_project_SIRAM": {
+            "time": "11:00-12:30",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_DIR_FAYOL": {
+            "time": "14:00-16:30",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        },
+        "Reserve_TFE_Thomas_SOLANAS": {
+            "time": "17:00-18:00",
+            "place": {
+                "name": "room 418 temporary VP",
+                "maximum_people": 12
+            }
+        }
+    }
+]

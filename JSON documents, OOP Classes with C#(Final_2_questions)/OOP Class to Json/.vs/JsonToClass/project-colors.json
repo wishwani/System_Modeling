@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82e84144-ed6e-4f55-9306-bb838958a88c": {
+      "ProjectGuid": "82e84144-ed6e-4f55-9306-bb838958a88c",
+      "DisplayName": "JsonToClass",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

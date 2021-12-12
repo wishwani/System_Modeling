@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c40c0f8-6c56-4a86-84c1-6f5880cea968": {
+      "ProjectGuid": "5c40c0f8-6c56-4a86-84c1-6f5880cea968",
+      "DisplayName": "Image Encoder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

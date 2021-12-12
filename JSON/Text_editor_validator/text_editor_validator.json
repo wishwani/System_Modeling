@@ -1,0 +1,28 @@
+{
+    "weather": {
+        "location": {
+            "country": "China",
+            "city": "Shanhai",
+            "id": "01",
+            "geo": {
+                "- long ": "121.46",
+                "-lat": "31.22"
+            },
+            "recorded": [
+                {
+                    "-date": "2021-11-26T14:53:41+0000",
+                    "celcius": "+13",
+                    "text": "Cloudy",
+                    "subinfo": {
+                        "sunrise": "06:32",
+                        "sunset": "16:53"
+                    },
+                    "wind": {
+                        "speed": "0.47",
+                        "deg": "107.538"
+                    }
+                }
+            ]
+        }
+    }
+}
